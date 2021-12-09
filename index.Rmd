@@ -112,6 +112,7 @@ anim1<-ggplot(
 anim1
 ```
 
+
 ### Animated Map: Acres in Farmland: 1910-2017
 ```{r echo=TRUE, message=FALSE, warning=FALSE, paged.print=FALSE}
 
