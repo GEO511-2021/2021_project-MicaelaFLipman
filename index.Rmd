@@ -31,6 +31,7 @@ Such table data was merged in R with county polygon data provided through the TI
 ## Data: 
 The data I extracted is made available at: [https://github.com/GEO511-2021/2021_project-MicaelaFLipman/blob/ea0119a7c180fabed5d48131db971a109c57de23/LongForm.csv]
 
+
 # Results
 ```{r Load Libraries and Data, message=FALSE, warning=FALSE, paged.print=FALSE, echo=TRUE, results = 'hide'}
 
@@ -144,6 +145,7 @@ anim2<-ggplot() +
 
 
 anim2
+
 
 ```
 
@@ -270,7 +272,7 @@ ggplot(
 
 ```
 
-# Conclusion
+# Conclusion 
 
 In conclusion, while learning to construct animated maps and scatterplots was fruitful for my own learning opportunities, it turned out that more simple plots of overall trends were more instructive in answering my two key research questions outlined in the introduction. The first hypothesis outlined in the introduction were supported by the data visualizations above. Erosion of land in farms did increase during post World War II suburbanization and did decline after the implementation of farmer support programs in the 1990s. The second hypothesis outlined in the introduction was supported in generality by the data visualizations above in that the trend across most years was towards an increasing farm size across counties. However, this trend appears to have reversed in the early 1990s with a leveling out of the size of farms in New York State counties in recent decades. This reversal in trend is quite interesting and is an area where fruitful additional research could take place. 
 
